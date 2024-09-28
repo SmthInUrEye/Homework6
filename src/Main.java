@@ -34,7 +34,7 @@ public class Main {
         }
 
         System.out.println ( "\nЗадача №7" );
-        for (int i = 1; i <= 512; i = i * 2) {
+        for (int i = 1; i <= 512; i *=  2) {
             System.out.print ( " " + i );
         }
 
