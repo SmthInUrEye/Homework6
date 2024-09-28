@@ -29,7 +29,7 @@ public class Main {
         }
 
         System.out.println ( "\nЗадача №6" );
-        for (int i = 7; i <= 98; i = i + 7) {
+        for (int i = 7; i <= 98; i += 7) {
             System.out.print ( " " + i );
         }
 
