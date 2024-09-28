@@ -14,7 +14,7 @@ public class Main {
         }
 
         System.out.println ( "\nЗадача №3" );
-        for (int i = 0; i <= 17; i = i + 2) {
+        for (int i = 0; i <= 17; i +=  2) {
             System.out.print ( " " + i );
         }
 
